@@ -1,0 +1,7 @@
+id,name,abstract_name,friend,enemy,parent,child,friend_disabled,enemy_disabled,parent_disabled,child_disabled,abstract_friend_name,abstract_enemy_name,abstract_parent_name,abstract_child_name
+0,Fred,m,2,5,4,,False,False,False,False,g,v,b,q
+1,Anthony,d,5,4,5,,False,True,False,False,g,v,b,q
+2,Darrell,z,0,3,,3,False,False,False,False,g,v,b,q
+3,Ebony,k,4,2,2,,False,False,False,False,g,v,b,q
+4,Catherine,y,3,1,,0,False,False,False,False,g,v,b,q
+5,Brian,h,1,0,,1,False,False,False,True,g,v,b,q
